@@ -2,4 +2,4 @@
 const companyName = "Scuber";
 let mostProfitableNeighborhood = "Chelsea";
 let companyCeo = "Susan Smith";
-console.log(companyCEO)
+console.log(companyCeo)
